@@ -2,6 +2,11 @@
 
 30,000+ presentation attack videos from 85+ participants for **iBeta Level 1 certification**, **face anti-spoofing**, and **liveness detection** training. Covers paper attacks, cutout prints, cylinder masks, 3D paper masks, and display replay attacks across iOS and Android devices. ISO/IEC 30107-3 compliant
 
+## Samples available
+- **Hugging Face:** [@AxonData](https://huggingface.co/datasets/AxonData/ibeta-level-1-certification)
+- **Kaggle:** [@axondata](https://www.kaggle.com/datasets/axondata/ibeta-level-1-paper-attacks)
+- **Contact:** sales@axonlabs.pro
+
 **21% of companies certified at iBeta in 2025 trained with Axon Labs datasets**
 
 ## Dataset Overview
@@ -32,11 +37,6 @@
 - **Multi-device** - paper attacks on iOS + Android; replay attacks against smartphone and PC/laptop displays
 - **Replay variation** - multiple brightness levels, capture distances, and viewing angles
 - **Diverse demographics** - adults 18-65, balanced gender, multi-ethnic representation
-
-## Samples available
-- **Hugging Face:** [@AxonData](https://huggingface.co/datasets/AxonData/ibeta-level-1-certification)
-- **Kaggle:** [@axondata](https://www.kaggle.com/datasets/axondata/ibeta-level-1-paper-attacks)
-- **Contact:** sales@axonlabs.pro
 
   ## Use Cases
 
