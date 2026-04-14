@@ -34,8 +34,8 @@
 - **Diverse demographics** - adults 18-65, balanced gender, multi-ethnic representation
 
 ## Samples available
-- **Hugging Face:** [@AxonData](https://huggingface.co/AxonData)
-- **Kaggle:** [@axondata](https://www.kaggle.com/axondata)
+- **Hugging Face:** [@AxonData](https://huggingface.co/datasets/AxonData/ibeta-level-1-certification)
+- **Kaggle:** [@axondata](https://www.kaggle.com/datasets/axondata/ibeta-level-1-paper-attacks)
 - **Contact:** sales@axonlabs.pro
 
   ## Use Cases
